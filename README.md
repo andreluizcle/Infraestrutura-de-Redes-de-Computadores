@@ -7,8 +7,8 @@
 Repositório com os roteiros e relatórios dos laboratórios práticos da disciplina **Redes de Comunicações I**, desenvolvidos no **Cisco Packet Tracer**.
 
 **Integrantes:**
-- André Luiz Clemente de Oliveira — 269943
-- Felipe Kenji Ouba Fukuzono — 240040
+- André Luiz Clemente de Oliveira
+- Felipe Kenji Ouba Fukuzono
 
 ---
 
