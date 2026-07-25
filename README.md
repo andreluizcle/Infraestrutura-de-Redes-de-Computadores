@@ -1,7 +1,6 @@
 # 🌐 Práticas de Redes de Comunicação I — FT UNICAMP
 
 ![Cisco Packet Tracer](https://img.shields.io/badge/Cisco-Packet%20Tracer-005691?style=for-the-badge&logo=cisco&logoColor=white)
-![Network Protocols](https://img.shields.io/badge/Protocols-VLAN%20%7C%20OSPF%20%7C%20DNS%20%7C%20HTTP%20%7C%20SMTP-007ACC?style=for-the-badge)
 ![Institution](https://img.shields.io/badge/UNICAMP-FT-CC0000?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Conclu%C3%ADdo-brightgreen?style=for-the-badge)
 
